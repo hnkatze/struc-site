@@ -86,10 +86,10 @@ Este proyecto ofrece visualizaciones interactivas de las estructuras de datos m√
 
 ```shellscript
 # Clonar el repositorio
-git clone https://github.com/hnkatze/estructure-site.git
+git clone https://github.com/hnkatze/struc-site.git
 
 # Navegar al directorio del proyecto
-cd estructure-site
+cd struc-site
 
 # Instalar dependencias
 npm install
